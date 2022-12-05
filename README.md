@@ -10,5 +10,5 @@ Technologies used :<br/>
 - Netlify<br/>
 <br/>
 
-## Visit The app [To Do List](to-do-app-db.netlify.app)
+## Visit The app [To Do List](https://to-do-app-db.netlify.app/)
 
